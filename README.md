@@ -1,1 +1,1 @@
-# desenvolvendo-uma-ferramenta-interativa-e-estudo
+# desenvolvendo-uma-ferramenta-interativa-de-estudo
